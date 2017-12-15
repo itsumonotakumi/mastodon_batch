@@ -9,7 +9,6 @@ ACCESS_TOKEN = 'apptoken.txt'
 API_URL = 'https://pawoo.net'
 USER_LIST = 'following_accounts.csv'
 LOG_FILE = 'unfollow_not_mutual.log'
-EXPIREDAY = 60
 TIMEWAIT = 5
 
 
