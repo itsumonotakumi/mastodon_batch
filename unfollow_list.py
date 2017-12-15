@@ -7,8 +7,8 @@ from mastodon import Mastodon
 CLIENT_CRED = 'clientcred.txt'
 ACCESS_TOKEN = 'apptoken.txt'
 API_URL = 'https://pawoo.net'
-USER_LIST = 'following_accounts_jp.csv'
-LOG_FILE = 'unfollow_list_nico.log'
+USER_LIST = 'following_accounts.csv'
+LOG_FILE = 'unfollow_list.log'
 EXPIREDAY = 30
 TIMEWAIT = 5
 
