@@ -4,11 +4,12 @@ import pytz
 import time
 from datetime import datetime
 from mastodon import Mastodon
+
 CLIENT_CRED = 'clientcred.txt'
 ACCESS_TOKEN = 'apptoken.txt'
 API_URL = 'https://pawoo.net'
 USER_LIST = 'following_accounts.csv'
-LOG_FILE = 'unfollow_dead_users.txt'
+LOG_FILE = 'unfollow_dead_users.log'
 EXPIREDAY = 30
 TIMEWAIT = 5
 
