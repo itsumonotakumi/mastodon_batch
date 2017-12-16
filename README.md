@@ -5,6 +5,7 @@ Unfollow scripts for batch processing at Mastodon.
 ## Requirements
 
 * Python >= 3.6
+* requests
 * [Mastodon.py](https://github.com/halcy/Mastodon.py)
 
 ## Preparations
