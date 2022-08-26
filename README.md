@@ -22,6 +22,10 @@ USER_LIST = 'following_accounts.csv'
 LOG_FILE = '{log file path}'
 ```
 
+4. Download following_accounts.csv from target mastodon instance
+5. Delete following_accounts.csv the first row
+6. Delete the backward from the comma of all row of following_accounts.csv
+
 ## Warning
 
 Always set the TIMEWAIT value to 5 or more. Otherwise you could put a heavy load on the instance.
