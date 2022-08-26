@@ -61,4 +61,5 @@ $ python unfollow_list.py
 
 ## Author
 
-[itsumonotakumi@pawoo.net](https://pawoo.net/@itsumonotakumi)
+[itsumonotakumi@takumi.fun](https://takumi.fun/@itsumonotakumi)
+[Twitter @itsumonotakumi](https://twitter.com/itsumonotakumi)
